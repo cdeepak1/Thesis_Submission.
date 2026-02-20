@@ -22,4 +22,4 @@ code used for the thesis analysis of long-term trends in surface energy fluxes u
 - `process_era.sh` – preprocess ERA5-Land monthly fields (CDO), including derived variables
 
 ## Supplementary material
-- A supplementary PDF (50 station plots) is included in this repository.
+- A supplementary PDF (50 station and all other plots) is included in this repository.
